@@ -13,7 +13,7 @@ CGIS is a city mapper for cyclists and public transit users.
 - Seaching is done through the search bar. Streets, points of interests, natural features, and preset cities can be searched directly. The camera will pan and zoom to the correct location.
   - Intersection search is done with a comma seperating the street names. For example, "`Dundas Street West, McCaul Street`" will search for the intersection between those two streets.
   - Clicking on a suggested result will replace the input text and search automatically. Alternatively, the user can press enter to search a partially completed name.
-  - LatLon coordinate search can be initiated with the key word "LatLon", followed by a space. For example, "`LatLon 43.66447, -79.39225`". Note that the coordinates should be seperated by a comma.
+  - LatLon coordinate search can be initiated with the key word "LatLon", followed by a space. For example, "`latlon 43.66447, -79.39225`". Note that the coordinates should be seperated by a comma.
   - Categories of points of interests or naturals features can also be searched. For example, "`streams`" will show all the streams.
 
 ## Switching the Map
